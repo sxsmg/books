@@ -1,3 +1,192 @@
 [submodule "Let-s-build-a-compiler"]
 	path = Let-s-build-a-compiler
 	url = https://github.com/vtudose/Let-s-build-a-compiler
+[submodule "hfbigbio.github.io"]
+	path = hfbigbio.github.io
+	url = https://github.com/hfbigbio/hfbigbio.github.io
+[submodule "90DaysOfDevOps"]
+	path = 90DaysOfDevOps
+	url = https://github.com/MichaelCade/90DaysOfDevOps
+[submodule "pytudes"]
+	path = pytudes
+	url = https://github.com/norvig/pytudes
+[submodule "micrograd"]
+	path = micrograd
+	url = https://github.com/karpathy/micrograd
+[submodule "minGPT"]
+	path = minGPT
+	url = https://github.com/karpathy/minGPT.git
+[submodule "master"]
+	path = master
+	url = https://github.com/ML-course/master.git
+[submodule "pytorch-Deep-Learning"]
+	path = pytorch-Deep-Learning
+	url = https://github.com/Atcold/pytorch-Deep-Learning.git
+[submodule "numpy-tutorials"]
+	path = numpy-tutorials
+	url = https://github.com/numpy/numpy-tutorials.git
+[submodule "statsmodels"]
+	path = statsmodels
+	url = https://github.com/statsmodels/statsmodels.git
+[submodule "10_neural_nets"]
+	path = 10_neural_nets
+	url = https://github.com/radekosmulski/10_neural_nets.git
+[submodule "DeepLearning.ai-Summary"]
+	path = DeepLearning.ai-Summary
+	url = https://github.com/mbadry1/DeepLearning.ai-Summary.git
+[submodule "Andrew-Ng-Machine-Learning-Notes"]
+	path = Andrew-Ng-Machine-Learning-Notes
+	url = https://github.com/mxc19912008/Andrew-Ng-Machine-Learning-Notes.git
+[submodule "math-app-ml"]
+	path = math-app-ml
+	url = https://github.com/pabloinsente/math-app-ml.git
+[submodule "mml-book.github.io"]
+	path = mml-book.github.io
+	url = https://github.com/mml-book/mml-book.github.io.git
+[submodule "spinningup"]
+	path = spinningup
+	url = https://github.com/openai/spinningup.git
+[submodule "how-web-works"]
+	path = how-web-works
+	url = https://github.com/vasanthk/how-web-works.git
+[submodule "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers"]
+	path = Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+	url = https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.git
+[submodule "information-theory"]
+	path = information-theory
+	url = https://github.com/Bladefidz/information-theory.git
+[submodule "MML-Companion"]
+	path = MML-Companion
+	url = https://github.com/vbartle/MML-Companion.git
+[submodule "Probability-and-Information-Theory"]
+	path = Probability-and-Information-Theory
+	url = https://github.com/akhilvasvani/Probability-and-Information-Theory.git
+[submodule "Teach-Me-Quantum"]
+	path = Teach-Me-Quantum
+	url = https://github.com/msramalho/Teach-Me-Quantum.git
+[submodule "system-design-primer"]
+	path = system-design-primer
+	url = https://github.com/donnemartin/system-design-primer.git
+[submodule "deeplearning"]
+	path = deeplearning
+	url = https://github.com/rapidsai/deeplearning.git
+[submodule "intro2stats"]
+	path = intro2stats
+	url = https://github.com/rouseguy/intro2stats.git
+[submodule "stats-with-python"]
+	path = stats-with-python
+	url = https://github.com/trangel/stats-with-python.git
+[submodule "Stats-Maths-with-Python"]
+	path = Stats-Maths-with-Python
+	url = https://github.com/tirthajyoti/Stats-Maths-with-Python.git
+[submodule "awesome-control-theory"]
+	path = awesome-control-theory
+	url = https://github.com/A-make/awesome-control-theory.git
+[submodule "StateSpaceControl"]
+	path = StateSpaceControl
+	url = https://github.com/tomstewart89/StateSpaceControl.git
+[submodule "system-design-resources"]
+	path = system-design-resources
+	url = https://github.com/InterviewReady/system-design-resources.git
+[submodule "algorithm-visualizer"]
+	path = algorithm-visualizer
+	url = https://github.com/algorithm-visualizer/algorithm-visualizer.git
+[submodule "big-list-of-naughty-strings"]
+	path = big-list-of-naughty-strings
+	url = https://github.com/minimaxir/big-list-of-naughty-strings.git
+[submodule "pytorch-deep-learning"]
+	path = pytorch-deep-learning
+	url = https://github.com/mrdbourke/pytorch-deep-learning.git
+[submodule "makemore"]
+	path = makemore
+	url = https://github.com/karpathy/makemore.git
+[submodule "cryptos"]
+	path = cryptos
+	url = https://github.com/karpathy/cryptos.git
+[submodule "100LinesOfCode"]
+	path = 100LinesOfCode
+	url = https://github.com/josharsh/100LinesOfCode.git
+[submodule "Advanced-Python"]
+	path = Advanced-Python
+	url = https://github.com/eugeneh101/Advanced-Python.git
+[submodule "advanced_python"]
+	path = advanced_python
+	url = https://github.com/krother/advanced_python.git
+[submodule "CPython-Internals"]
+	path = CPython-Internals
+	url = https://github.com/zpoint/CPython-Internals.git
+[submodule "learn-go"]
+	path = learn-go
+	url = https://github.com/karanpratapsingh/learn-go.git
+[submodule "system-design"]
+	path = system-design
+	url = https://github.com/karanpratapsingh/system-design.git
+[submodule "cradle"]
+	path = cradle
+	url = https://github.com/g-ford/cradle.git
+[submodule "darkriscv"]
+	path = darkriscv
+	url = https://github.com/darklife/darkriscv.git
+[submodule "riscv_vhdl"]
+	path = riscv_vhdl
+	url = https://github.com/sergeykhbr/riscv_vhdl.git
+[submodule "Redis-Internals"]
+	path = Redis-Internals
+	url = https://github.com/zpoint/Redis-Internals.git
+[submodule "Go-Internals"]
+	path = Go-Internals
+	url = https://github.com/zpoint/Go-Internals.git
+[submodule "virtual-tech-notes"]
+	path = virtual-tech-notes
+	url = https://github.com/virtual-tech-school/virtual-tech-notes.git
+[submodule "compsci_guides"]
+	path = compsci_guides
+	url = https://github.com/codepath/compsci_guides.git
+[submodule "python-patterns"]
+	path = python-patterns
+	url = https://github.com/brandon-rhodes/python-patterns.git
+[submodule "practices-of-the-python-pro"]
+	path = practices-of-the-python-pro
+	url = https://github.com/daneah/practices-of-the-python-pro.git
+[submodule "Modern-CPP-Programming"]
+	path = Modern-CPP-Programming
+	url = https://github.com/federico-busato/Modern-CPP-Programming.git
+[submodule "pyneng-book-en"]
+	path = pyneng-book-en
+	url = https://github.com/natenka/pyneng-book-en.git
+[submodule "fastapi-course"]
+	path = fastapi-course
+	url = https://github.com/Sanjeev-Thiyagarajan/fastapi-course.git
+[submodule "cuda_programming"]
+	path = cuda_programming
+	url = https://github.com/CoffeeBeforeArch/cuda_programming.git
+[submodule "Boost-Python-Examples"]
+	path = Boost-Python-Examples
+	url = https://github.com/zpoint/Boost-Python-Examples.git
+[submodule "kubernetes-internals"]
+	path = kubernetes-internals
+	url = https://github.com/shubheksha/kubernetes-internals.git
+[submodule "System-Design-Papers"]
+	path = System-Design-Papers
+	url = https://github.com/shubheksha/System-Design-Papers.git
+[submodule "Kabuki"]
+	path = Kabuki
+	url = https://github.com/Farama-Foundation/Kabuki.git
+[submodule "CS421"]
+	path = CS421
+	url = https://github.com/artur-sak13/CS421.git
+[submodule "cyberclopaedia"]
+	path = cyberclopaedia
+	url = https://github.com/cr0mll/cyberclopaedia.git
+[submodule "Data-Science-For-Beginners"]
+	path = Data-Science-For-Beginners
+	url = https://github.com/microsoft/Data-Science-For-Beginners.git
+[submodule "ML-For-Beginners"]
+	path = ML-For-Beginners
+	url = https://github.com/microsoft/ML-For-Beginners.git
+[submodule "stat_rethinking_2022"]
+	path = stat_rethinking_2022
+	url = https://github.com/rmcelreath/stat_rethinking_2022.git
+[submodule "effective-pandas"]
+	path = effective-pandas
+	url = https://github.com/TomAugspurger/effective-pandas.git
