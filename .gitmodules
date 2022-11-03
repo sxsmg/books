@@ -1,0 +1,3 @@
+[submodule "Let-s-build-a-compiler"]
+	path = Let-s-build-a-compiler
+	url = https://github.com/vtudose/Let-s-build-a-compiler
